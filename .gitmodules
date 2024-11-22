@@ -1,0 +1,3 @@
+[submodule "qibolab_platforms_qrc"]
+	path = qibolab_platforms_qrc
+	url = git@github.com:qiboteam/qibolab_platforms_qrc.git
